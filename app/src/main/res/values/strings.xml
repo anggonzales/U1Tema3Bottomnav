@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">U1Tema3Bottomnav</string>
+    <string name="title_shop">Ventas</string>
+    <string name="title_gifts">Regalos</string>
+    <string name="title_cart">Compras</string>
+    <string name="title_profile">perfil</string>
+    <string-array name="tipo">
+        <item>Lista</item>
+        <item>Grilla</item>
+    </string-array>
+    <string-array name="milista">
+        <item>Peru</item>
+        <item>Bolivia</item>
+        <item>Argentina</item>
+        <item>Ecuador</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
